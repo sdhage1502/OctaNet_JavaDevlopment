@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OctaNet_JavaDevlopment.iml" filepath="$PROJECT_DIR$/OctaNet_JavaDevlopment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task01_AtmInterface/Task01_AtmInterface.iml" filepath="$PROJECT_DIR$/Task01_AtmInterface/Task01_AtmInterface.iml" />
+    </modules>
+  </component>
+</project>
